@@ -24,7 +24,8 @@ This is a basic example which shows you how to solve a common problem:
 
 ``` r
 library(penguinclassify)
-## basic example code
+classify_penguin(100,50)
+#> [1] "Chinstrap"
 ```
 
 What is special about using `README.Rmd` instead of just `README.md`?
