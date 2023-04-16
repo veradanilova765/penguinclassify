@@ -4,6 +4,8 @@
 # penguinclassify
 
 <!-- badges: start -->
+
+![](https://github.com/veradanilova765/penguinclassify/actions/workflows/test-coverage.yaml/badge.svg)
 <!-- badges: end -->
 
 The goal of penguinclassify is to …
